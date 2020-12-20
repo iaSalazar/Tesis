@@ -16,7 +16,7 @@ Darknet fork used by roboflow: https://github.com/roboflow-ai/darknet#how-to-use
                                
 https://colab.research.google.com/drive/1mzL6WyY9BRx4xX476eQdhKDnd_eixBlG
 
-ColabNotebooks nad guide used:
+ColabNotebooks and guides used:
 
 https://models.roboflow.com/
 
