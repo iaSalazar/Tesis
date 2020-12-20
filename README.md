@@ -2,8 +2,11 @@
 
 
 Important references:
+
 Darknet: https://pjreddie.com/darknet/yolo/
+
 Darknet fork used by roboflow: https://github.com/roboflow-ai/darknet#how-to-use-on-the-command-line
+
 
                                IMPORTANT: 
                                
